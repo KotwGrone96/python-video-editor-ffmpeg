@@ -1,0 +1,6 @@
+/__pycache__
+/edits*
+/venv
+/PARA*
+*.csv
+/logs
